@@ -1,1 +1,1 @@
-# alura-synfony-1
+# alura-symfony-1
